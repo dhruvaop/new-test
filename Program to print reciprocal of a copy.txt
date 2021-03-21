@@ -1,0 +1,12 @@
+Given a string S, we need to find reciprocal of it. The reciprocal of the letter is found is
+found by finding the difference between the position of the letter and the first letter 'A'
+.Then decreasing the same number of steps from the last letter 'Z' .The character that we 
+reach after steps is reciprocal.
+Reciprocal of Z is A and vice versa because if you reverse if you 
+reverse the position of the alphabet A 
+will be in the position of Z.
+Similarly, if the letters is a small case then the first will be 'a' and the last letter
+will be 'a'and the last letter will be 'z'. and the 
+definition of the reciprocal remains the same.
+
+NOTE - IF THE CHARACTER IS NOT A LETTER ITS RECIPROCAL WILL BE THE SAME CHARACTER .
